@@ -1,0 +1,9 @@
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\ClassesDAO\bin\Debug\netstandard2.0\ClassesDAO.deps.json
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\ClassesDAO\bin\Debug\netstandard2.0\ClassesDAO.dll
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\ClassesDAO\obj\Debug\netstandard2.0\ClassesDAO.csprojAssemblyReference.cache
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\ClassesDAO\obj\Debug\netstandard2.0\ClassesDAO.AssemblyInfoInputs.cache
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\ClassesDAO\obj\Debug\netstandard2.0\ClassesDAO.AssemblyInfo.cs
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\ClassesDAO\bin\Debug\netstandard2.0\ClassesDAO.pdb
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\ClassesDAO\obj\Debug\netstandard2.0\ClassesDAO.csproj.CoreCompileInputs.cache
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\ClassesDAO\obj\Debug\netstandard2.0\ClassesDAO.dll
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\ClassesDAO\obj\Debug\netstandard2.0\ClassesDAO.pdb

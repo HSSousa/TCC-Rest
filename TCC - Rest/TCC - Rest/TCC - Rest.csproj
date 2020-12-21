@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>TCC___Rest</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.10" />
+    <PackageReference Include="System.IO.Ports" Version="4.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClassesDAO\ClassesDAO.csproj" />
+    <ProjectReference Include="..\ElasticSearch\ElasticSearch.csproj" />
+    <ProjectReference Include="..\TCC - Implementation\TCC - Implementation.csproj" />
+  </ItemGroup>
+
+
+</Project>

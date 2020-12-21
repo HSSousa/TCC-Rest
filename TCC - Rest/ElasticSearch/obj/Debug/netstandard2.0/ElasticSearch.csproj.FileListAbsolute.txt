@@ -1,0 +1,14 @@
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\ElasticSearch\bin\Debug\netstandard2.0\ElasticSearch.deps.json
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\ElasticSearch\bin\Debug\netstandard2.0\ElasticSearch.dll
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\ElasticSearch\bin\Debug\netstandard2.0\ElasticSearch.pdb
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\ElasticSearch\bin\Debug\netstandard2.0\ClassesDAO.dll
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\ElasticSearch\bin\Debug\netstandard2.0\TCC - Implementation.dll
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\ElasticSearch\bin\Debug\netstandard2.0\TCC - Implementation.pdb
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\ElasticSearch\bin\Debug\netstandard2.0\ClassesDAO.pdb
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\ElasticSearch\obj\Debug\netstandard2.0\ElasticSearch.csprojAssemblyReference.cache
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\ElasticSearch\obj\Debug\netstandard2.0\ElasticSearch.AssemblyInfoInputs.cache
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\ElasticSearch\obj\Debug\netstandard2.0\ElasticSearch.AssemblyInfo.cs
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\ElasticSearch\obj\Debug\netstandard2.0\ElasticSearch.csproj.CopyComplete
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\ElasticSearch\obj\Debug\netstandard2.0\ElasticSearch.dll
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\ElasticSearch\obj\Debug\netstandard2.0\ElasticSearch.pdb
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\ElasticSearch\obj\Debug\netstandard2.0\ElasticSearch.csproj.CoreCompileInputs.cache

@@ -1,0 +1,42 @@
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\TCC - Rest.exe
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\obj\Debug\netcoreapp3.1\TCC - Rest.AssemblyInfoInputs.cache
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\obj\Debug\netcoreapp3.1\TCC - Rest.AssemblyInfo.cs
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\obj\Debug\netcoreapp3.1\TCC - Rest.RazorTargetAssemblyInfo.cache
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\obj\Debug\netcoreapp3.1\staticwebassets\TCC - Rest.StaticWebAssets.Manifest.cache
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\obj\Debug\netcoreapp3.1\staticwebassets\TCC - Rest.StaticWebAssets.xml
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\TCC - Rest.deps.json
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\TCC - Rest.runtimeconfig.json
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\TCC - Rest.runtimeconfig.dev.json
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\TCC - Rest.dll
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\TCC - Rest.pdb
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\System.IO.Ports.Native.so
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\System.IO.Ports.Native.so
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\obj\Debug\netcoreapp3.1\TCC - Rest.csprojAssemblyReference.cache
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\obj\Debug\netcoreapp3.1\TCC - Rest.csproj.CopyComplete
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\obj\Debug\netcoreapp3.1\TCC - Rest.dll
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\obj\Debug\netcoreapp3.1\TCC - Rest.pdb
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\obj\Debug\netcoreapp3.1\TCC - Rest.genruntimeconfig.cache
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\Nest.dll
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\ClassesDAO.dll
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\ElasticSearch.dll
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\TCC - Implementation.dll
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\ClassesDAO.pdb
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\ElasticSearch.pdb
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\TCC - Implementation.pdb
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\product.json
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\obj\Debug\netcoreapp3.1\TCC - Rest.csproj.CoreCompileInputs.cache
+C:\Users\wework\Desktop\TCC - VisualStudio\TCC - Rest\TCC - Rest\obj\Debug\netcoreapp3.1\TCC - Rest.MvcApplicationPartsAssemblyInfo.cache
